@@ -4,7 +4,7 @@
  *	Assignment: Lab #9 Exercise #2
  *	Exercise Description: [optional - include for your own benefit]
  *
- * Link to Vid:
+ * Link to Vid: https://youtu.be/zZFfmf22BqM
  *
  *	I acknowledge all content contained herein, excluding template or example
  *	code, is my own original work.
