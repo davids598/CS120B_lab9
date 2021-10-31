@@ -75,7 +75,7 @@ void Tick() {
 
 int main(void) {
     /* Insert DDR and PORT initializations */
-    DDRA = 0x00; PORTA = 0x00; //A is input
+    DDRA = 0x00; PORTA = 0xFF; //A is input
     DDRB = 0xFF; PORTB = 0x00; //Set both to outputs
     /* Insert your solution below */
     PWM_on();
